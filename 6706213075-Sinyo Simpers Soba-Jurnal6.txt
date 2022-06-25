@@ -1,0 +1,3 @@
+link git
+
+https://github.com/Sinyosimpers12/Jurnal6.git
